@@ -44,4 +44,3 @@
 [![Contato](https://img.shields.io/badge/-Contato-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor_vilel@hotmail.com)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/victorvilela_)
 [![Medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@victorvilela_)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wagxzStdcR)
