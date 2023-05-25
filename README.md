@@ -1,42 +1,9 @@
-## Hi, I’m Victor Vilela 👋
-  
-- 🔭 **I’m work at** TransUnion Brasil performing policy parameterization in the Credit Decision Mechanism tool for different segments.
-- 🌱 **I’m currently learning** Data Science, Statistics and Machine Learning
-- 👯 **I’m looking to collaborate** on data science projects and AI
-- 📫 **How to reach me:** victor_vilel@hotmail.com
-- ⚡ **Fun fact:** I love soccer, Corinthians fan and kitchen lover
-- ✨ **Skills:** I communicate well, I like to work in a team and very curious to solve problems
+## Hi, everyone! 👋
 
-##
+My name is Victor, I am a Data Scientist currently working as a Implementation Analyst performing strategies credit policies in Brazil.
+I am passionate data-driven technologies, sports and astrology. 
 
-### Analytical Tools
-
-
-> **ML / DL** ● Classification, Regression & Clustering.
-> 
-> **Deployment** ● Heroku, Flask & Streamlit.
-> 
-> **Data Collect** ● SQL, SQLite, MySQL & DBeaver.
-> 
-> **Development Tools** ● Ubuntu, Docker, Git & Vim.
->
-> **ETL/Job Tools** ● Airflow, Cronjob & Minio.
-> 
-> **DS Programing Languages** ● Python & R.
-> 
-> **Web Development** ● HTML, CSS & JS.
-
-##
-
-#### Github Stats
-
-<div align="center">
-  <a href="https://github.com/victor-vilela">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor-vilela&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-vilela&layout=compact&langs_count=7&theme=apprentice"/>
-</div>
-
-##
+I'm currently learning about MLOps and Data Engineering to implement end-to-end projects with best practices.
           
 #### Reach me on
 
