@@ -13,11 +13,11 @@ Trabalho na área de dados desde 2020, ao ingressar na TransUnion Brasil, e desc
 
 Atualmente trabalho como Data Analyst também na TransUnion Brasil, empresa de análise de informação e dados, contribuindo com a implementação do Cadastro Positivo, setor com enorme potencial de crescimento no país.
 
-## Skills
+## Skills 📋 
 
 Python | SQL | R | Machine Learning | Estatística | Análise de Dados | Deploy
 
-#### Reach me on
+## Se conecte comigo! 💪🏼 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vilelavictor)
 [![Contato](https://img.shields.io/badge/-Contato-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor_vilel@hotmail.com)
